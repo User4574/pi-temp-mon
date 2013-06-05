@@ -6,9 +6,9 @@ Installation
 
 1. Add the following lines to your Pi's /etc/modules
 
-> w1-gpio
+    > w1-gpio
 
-> w1-therm
+    > w1-therm
 
 2. Reboot, or run:
 
