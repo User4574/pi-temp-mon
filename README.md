@@ -12,9 +12,9 @@ Installation
 
 2. Reboot, or run:
 
-> sudo modprobe w1-gpio
+    > sudo modprobe w1-gpio
 
-> sudo modprobe w1-therm
+    > sudo modprobe w1-therm
 
 3. Set the correct settings in the config.yml file
 
