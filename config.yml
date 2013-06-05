@@ -1,0 +1,12 @@
+---
+:broker:
+    :remote: 169.254.1.1
+    :clientid: jam256
+
+:topics:
+    :report: /dc/sensors
+    :lwt: /dc/status/failure
+    :status: /dc/status
+
+:reports:
+    :period: 30
